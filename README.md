@@ -3,8 +3,5 @@
 - 🌱 I’m currently learning video game design and programming.
 - 💞️ I’m looking to collaborate on fellow video game creators.
 - 📫 How to reach me: at Green Country Technology Center
-
-<!---
-JoshuaDeBord/JoshuaDeBord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😉✌️😍😜
+My name is Josh and I am currently in the Computer Programming class in Green Country Technology Center in Oklahoma. 
